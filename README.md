@@ -24,3 +24,12 @@ For those that are new to electronics and microcontrollers, ARDUINO is a microco
 Pic for tinkercad is included in the files.
 
 Link to the circuit goes here...
+
+Pin 5 is RED
+Pin 9 is GREEN
+Pin 11 is BLUE
+
+To change to a particular color, look up the RGB code and change the code for a series of colors of your preference, in the loop part of the code.
+
+For example, The values for YELLOW are rgb(255,255,0)
+red is 255 green is 255 and blue 0
